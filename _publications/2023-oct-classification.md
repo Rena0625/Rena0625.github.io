@@ -1,6 +1,7 @@
 ---
 title: "Research Summary on OCT Image Classification Using Deep Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-oct-classification
 date: 2023-06-01
 venue: "NCUT Campus Research Newsletter"
