@@ -1,6 +1,7 @@
 ---
 title: "Weighted Gene Co-Expression Analysis Identifies Immune and Epithelial Remodeling Signatures in Chronic Rhinosinusitis with Nasal Polyps"
 collection: publications
+category: conferences
 permalink: /publication/2025-wgcna-crswnp
 date: 2025-04-01
 venue: "19th Annual Lewis Landsberg Research Day (Poster)"
